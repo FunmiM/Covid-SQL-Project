@@ -14,7 +14,7 @@ The dataset contains global COVID-19 statistics including:
 * Population data
 * Vaccinations
 
-(Data source: [insert source if applicable, e.g., Our World in Data])
+Data source:(https://ourworldindata.org/covid-deaths)
 
 🛠 Skills & Tools Used
 
