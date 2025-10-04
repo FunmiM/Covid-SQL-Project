@@ -24,6 +24,8 @@ Data source:(https://ourworldindata.org/covid-deaths)
 
 🔎 SQL Analysis Highlights
 
+
+
 * Cases vs. Deaths: Calculated death percentages across countries.
 * Cases vs. Population: Determined infection rates by population.
 * Highest Infection & Death Rates: Identified countries and continents with the largest impact.
@@ -34,12 +36,11 @@ Data source:(https://ourworldindata.org/covid-deaths)
 
 The Power BI dashboard presents:
 
-* Global case and death trends
-* Country-level infection and death comparisons
-* Vaccination progress against population
-* Continent-level breakdowns
-
-*(Insert dashboard screenshots here)*
+* Total Death per Continent
+* Percentage Population Infected
+* Country-level breakdowns
+  
+![Covid Dashboard](https://github.com/user-attachments/assets/51f81641-4b8a-4610-8995-56e84eeeda65)
 
 ✅ Key Insights
 
